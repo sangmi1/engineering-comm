@@ -120,4 +120,4 @@ http://about.gitlab.com/handbook/markdown-guide/
 
 [identifier]: https://www.andong.ac.kr/main/index.do
 
-[This link] will do the same
+[This link] will do the same as well.
