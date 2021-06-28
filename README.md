@@ -97,3 +97,15 @@ Link : [안동대학교][andonglink]
 <img src="ttps://user-images.githubusercontent.com/86451095/123567075-53a53b00-d7fc-11eb-8cc7-f82558ca90d9.PNG" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
 [줄바꿈]
+---
+___
+***
+
+[표]
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
+
