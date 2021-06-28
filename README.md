@@ -49,6 +49,8 @@ This is a normal paragraph:
  This is a code block.
 end code block.
 
+[코드블럭]
+
 ```
 public class BootSpringBootApplication {
  public static void main(String[] args) {
@@ -56,6 +58,8 @@ public class BootSpringBootApplication {
  }
 }
 ```
+
+[수평선]
 
 * * *
 
