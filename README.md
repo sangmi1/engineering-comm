@@ -88,4 +88,7 @@ public class BootSpringBootApplication {
 
 취소선 : ~~cancelline~~
 
+Link : [안동대학교][andonglink]
+
+[andonglink] : https://www.andong.ac.kr/
 ![Alt text](https://user-images.githubusercontent.com/86451095/123567075-53a53b00-d7fc-11eb-8cc7-f82558ca90d9.PNG)
