@@ -90,8 +90,10 @@ public class BootSpringBootApplication {
 
 Link : [안동대학교][andonglink]
 
-[andonglink] : https://www.andong.ac.kr/main/index.do "Go andong"
+[andonglink]: https://www.andong.ac.kr/main/index.do "Go andong"
 
 ![Alt text](https://user-images.githubusercontent.com/86451095/123567075-53a53b00-d7fc-11eb-8cc7-f82558ca90d9.PNG "Optional title")
 
 <img src="ttps://user-images.githubusercontent.com/86451095/123567075-53a53b00-d7fc-11eb-8cc7-f82558ca90d9.PNG" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+
+[줄바꿈]
