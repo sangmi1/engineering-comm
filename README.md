@@ -109,3 +109,15 @@ ___
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | 뿡뿡이 | 51 | ~~9/13~~ |
 
+
+[참고 사이트]
+
+http://about.gitlab.com/handbook/markdown-guide/
+
+[Link]
+
+[Text to display][identifier] will display a link
+
+[identifier]: http://github.com/lhotseshare8400/Engineering-Comm/blob/main/1.14.py
+
+[This link] will do the same
